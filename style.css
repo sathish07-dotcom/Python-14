@@ -1,0 +1,17 @@
+body{
+    background-color: pink;
+}
+h1{
+    text-align: center;
+    color: red;
+    text-decoration: underline green;
+}
+li{
+    color: brown;
+}
+h2{
+    color: rgb(10, 111, 111);
+}
+p{
+    color: green;
+}
